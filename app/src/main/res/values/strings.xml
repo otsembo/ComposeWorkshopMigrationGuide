@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="eiffel_tower">Eiffel Tower</string>
+    <string name="hello_paris">Hello Paris!</string>
+    <string name="go_to_paris">Go to Paris</string>
+    <string name="return_home">Return Home</string>
+</resources>
